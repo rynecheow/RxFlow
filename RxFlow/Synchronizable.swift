@@ -6,6 +6,8 @@
 //  Copyright (c) RxSwiftCommunity. All rights reserved.
 //
 
+import Foundation
+
 // this code had been inspired by the project: https://github.com/RxSwiftCommunity/NSObject-Rx
 // Its License can be found here: ../DependenciesLicenses/RxSwiftCommunity-NSObject-Rx-License
 

@@ -6,6 +6,7 @@
 //  Copyright (c) RxSwiftCommunity. All rights reserved.
 //
 
+import Foundation
 import RxSwift
 
 // this code had been inspired by the project: https://github.com/RxSwiftCommunity/RxSwiftExt

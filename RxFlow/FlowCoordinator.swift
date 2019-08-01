@@ -5,6 +5,8 @@
 //  Created by Thibault Wittemberg on 2018-12-19.
 //  Copyright © 2018 RxSwiftCommunity. All rights reserved.
 //
+
+import Foundation
 import RxSwift
 import RxCocoa
 
